@@ -1,0 +1,23 @@
+{
+	"target": "simulator",
+	"deployType": "development",
+	"deviceFamily": "universal",
+	"iosSdkPath": "/Users/lucy/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone",
+	"tiCoreHash": "77157e1ffaec640cf559356a147b6a4c",
+	"modulesHash": "d41d8cd98f00b204e9800998ecf8427e",
+	"modulesNativeHash": "d41d8cd98f00b204e9800998ecf8427e",
+	"gitHash": "787cd39",
+	"name": "Immunization",
+	"id": "com.moh.immunization",
+	"analytics": true,
+	"publisher": "lucy",
+	"url": "http://",
+	"version": "1.0",
+	"description": "undefined",
+	"copyright": "2014 by lucy",
+	"guid": "1b3b6279-051f-4ae2-8b46-df8be7065f5f",
+	"skipJSMinification": true,
+	"forceCopy": false,
+	"forceCopyAll": false,
+	"encryptJS": false
+}

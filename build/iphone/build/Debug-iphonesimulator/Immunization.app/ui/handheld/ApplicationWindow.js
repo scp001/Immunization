@@ -1,0 +1,5 @@
+XSym
+0075
+19e9ef059253ac3549f61ce170be4249
+/Users/lucy/Desktop/Immunization/Resources/ui/handheld/ApplicationWindow.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

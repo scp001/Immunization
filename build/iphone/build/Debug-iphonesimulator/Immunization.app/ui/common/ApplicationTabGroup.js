@@ -1,0 +1,5 @@
+XSym
+0075
+24f8a2126f455f636265c1a714878c51
+/Users/lucy/Desktop/Immunization/Resources/ui/common/ApplicationTabGroup.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

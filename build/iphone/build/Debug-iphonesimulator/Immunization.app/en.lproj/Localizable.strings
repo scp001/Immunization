@@ -1,0 +1,12 @@
+/**
+ * Appcelerator Titanium
+ * this is a generated file - DO NOT EDIT
+ */
+
+"home" = "Home";
+"immunization" = "Immunization";
+"nurse" = "Nurse";
+"nurseinfo" = "Nurse Information";
+"openWindow" = "Open New Window";
+"newWindow" = "New Window";
+"confrim" = "Confirm";

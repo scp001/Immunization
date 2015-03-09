@@ -1,0 +1,5 @@
+XSym
+0073
+ae4e3a3a7a65051b669ba3d21b7bc2f5
+/Users/lucy/Desktop/Immunization/Resources/ui/tablet/ApplicationWindow.js
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
